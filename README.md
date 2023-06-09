@@ -66,7 +66,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustARandomDude4&repo=JustARandomDude4.github.io&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustARandomDude4&repo=DoodleSatwi&show_icons=true&theme=great-gatsby"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JustARandomDude4&repo=TopperStopWebsite&show_icons=true&theme=great-gatsby"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JustARandomDude4&repo=Satwi-sFirstDiscordBot&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustARandomDude4&repo=MemEthereum&show_icons=true&theme=great-gatsby">
 </div>
  
