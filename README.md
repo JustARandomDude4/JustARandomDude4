@@ -3,9 +3,9 @@
 </h1>
 
 ---
-
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?&user=JustARandomDude4"/>
- 
+</div>
 ---
  
 - 👨‍🎓I am Satwika Katragadda, CSE Senior Undergrad from Vasavi College Of Engineering, Hyderabad.<br/>
@@ -64,9 +64,9 @@
 ### Recent Projects 👨‍💻
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JustARandomDude4&repo=TopperStopWebsite&show_icons=true&theme=great-gatsby"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JustARandomDude4&repo=JustARandomDude4.github.io&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustARandomDude4&repo=DoodleSatwi&show_icons=true&theme=great-gatsby"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JustARandomDude4e&repo=JustARandomDude4.github.io&show_icons=true&theme=great-gatsby"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JustARandomDude4&repo=TopperStopWebsite&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustARandomDude4&repo=MemEthereum&show_icons=true&theme=great-gatsby">
 </div>
  
