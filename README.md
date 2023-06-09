@@ -6,7 +6,6 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?&user=JustARandomDude4"/>
 </div>
----
  
 - 👨‍🎓I am Satwika Katragadda, CSE Senior Undergrad from Vasavi College Of Engineering, Hyderabad.<br/>
 - 💻I am a **Google Certified UX Designer**, **Front-End Web Developer** as well as 📱**Full-Stack Enthusiast**<br/>
