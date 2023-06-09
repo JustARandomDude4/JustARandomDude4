@@ -4,10 +4,9 @@
 
 ---
 
-|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=JustARandomDude4"/>|
-|---|---|
+<img src="https://github-readme-streak-stats.herokuapp.com/?&user=JustARandomDude4"/>
  
- ---
+---
  
 - 👨‍🎓I am Satwika Katragadda, CSE Senior Undergrad from Vasavi College Of Engineering, Hyderabad.<br/>
 - 💻I am a **Google Certified UX Designer**, **Front-End Web Developer** as well as 📱**Full-Stack Enthusiast**<br/>
@@ -71,9 +70,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=JustARandomDude4&repo=MemEthereum&show_icons=true&theme=great-gatsby">
 </div>
  
-<div align="center">
-![Snake Graph](https://JustARandomDude4/justarandomdude4/blob/master/github-user-contribution.svg)
-</div>
+![Snake Graph](https://github.com/JustARandomDude4/justarandomdude4/blob/master/github-user-contribution.svg)
 
 
 
